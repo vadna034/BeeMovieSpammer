@@ -1,0 +1,14 @@
+{
+  "name": "beemovie",
+  "version": "1.0.0",
+  "description": "Send the bee movie script to your friends slowly, one word at a time",
+  "main": "beeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shane Vadnais",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.4.11"
+  }
+}

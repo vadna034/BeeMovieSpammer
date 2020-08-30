@@ -1,0 +1,6 @@
+{
+  "service": "", // example: gmail or any other email service
+  "user": "", // example: xxx@gmail.com
+  "password": "", // example: your gmail password
+  "receiver": "" // look this up at https://freesmsgateway.info/ It will be labeled SMS Gateway.
+}
